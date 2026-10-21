@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/present/:roomId", "destination": "/index.html" },
+    { "source": "/upload/:roomId", "destination": "/index.html" }
+  ]
+}
